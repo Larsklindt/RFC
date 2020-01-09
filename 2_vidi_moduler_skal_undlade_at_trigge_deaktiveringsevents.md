@@ -4,7 +4,7 @@
 
 ## 2. Foreslået løsning
 
-## 3. Problemer bagudkompatibilitet
+## 3. Problemer med bagudkompatibilitet
 
 ## 4. Sikkerhedsmæssige implikationer
 
