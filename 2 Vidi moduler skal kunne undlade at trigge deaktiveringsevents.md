@@ -15,11 +15,15 @@ En mulig løsning er, at modulet placerer en data-attribute i "#side-panel ul li
 En ide er at vise en toast pop-up med en meddelse om at moduler bliver deaktiveret, når et "aktivt" module aktiveres.
 
 ## 3. Problemer med bagudkompatibilitet
+Ingen hvad angår extensions eller GC2.
 
 ## 4. Sikkerhedsmæssige implikationer
+Ingen.
 
 ## 5. Performance-implikationer
+Ingen.
 
 ## 6. Dokumentationsbehov
+Extension developer dokumentationen skal opdateres.
 
 ## 7. Issue tracker
