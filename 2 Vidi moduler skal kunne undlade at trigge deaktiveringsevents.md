@@ -8,6 +8,8 @@ En række moduler skal beskrives som "passive". Dvs. at de ikke ændrer klik-i-k
 
 På en eller måde skal modulet undertrykke stop- og oprydningshandlin, der bliver udløst ved skift mellem moduler. Det er vigtigt, at denne undertrykkelse er placeret i modulet kode, således module-forfatteren selv kan implementere undertrykkelsen.
 
+Her bliver der lyttet til off:all handlingen: https://github.com/mapcentia/vidi/blob/master/browser/modules/bindEvent.js#L510-L537
+
 ## 3. Problemer med bagudkompatibilitet
 
 ## 4. Sikkerhedsmæssige implikationer
