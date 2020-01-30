@@ -26,4 +26,6 @@ Ingen.
 ## 6. Dokumentationsbehov
 Extension developer dokumentationen skal opdateres.
 
+## Arbejdsnoter
+
 ## 7. Issue tracker
